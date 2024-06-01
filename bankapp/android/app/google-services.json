@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550239393196",
+    "project_id": "bankingapp-6afda",
+    "storage_bucket": "bankingapp-6afda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550239393196:android:26de1b0547145e2c931609",
+        "android_client_info": {
+          "package_name": "com.example.bankapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKFHfEKbacsYz_Ogg9LBpB-chiT7FXeo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
